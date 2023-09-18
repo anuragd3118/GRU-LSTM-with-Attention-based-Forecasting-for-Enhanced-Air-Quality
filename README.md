@@ -55,6 +55,6 @@ Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for Sta
 
 ### Results
 <div style="float:left">
-<div style="float:left"><img src="https://github.com/jyoti0225/Air-Pollution-Forecasting/blob/master/output_graph.png](https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/preiction_vs_actual_graph.png)https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/preiction_vs_actual_graph.png"/>
+<div style="float:left"><img src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/prediction_vs_actual_graph.png"/>
 </div>
 <br />
