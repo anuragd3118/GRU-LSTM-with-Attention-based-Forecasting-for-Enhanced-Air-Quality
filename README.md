@@ -2,18 +2,16 @@
 Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for State-of-art results
 
 ## Tools and Libraries
-- Tools :
-#####         Python
-#####         Jupyter
+- Tools : Python3 and Colab Notebook for language support
 - Libraries :
-#####        Pandas (1.5.3) — For handling structured data
-#####        NumPy (1.23.5) — For linear algebra and mathematics
-#####        Scikit Learn (1.2.2) — For machine learning
+  - Pandas (1.5.3) — For handling structured data
+  - NumPy (1.23.5) — For linear algebra and mathematics
+  - Scikit Learn (1.2.2) — For machine learning
 
-## Our Machine Learning Model Development Cycle
+## Our Deep Learning Model Development Map
 
-<p align="center">
-  <img width="600" src="" alt="Proposed Attention GRU-LSTM Model ">
+<p align="left">
+  <img width="400" src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/model_visualisation.png" alt="Proposed Attention GRU-LSTM Model ">
 </p>
 
 ## DataSet
@@ -23,7 +21,7 @@ Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for Sta
 - Data preparation
 - Data Visualization and Normalisation
 - Importing the Model
-- Fit model along with regularization term
+- Fit model along with constrains
 - Evaluate model using various Evaluation Metrics
 
 ### Data preparation
@@ -53,8 +51,13 @@ Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for Sta
 - Plot the line graph between actual vs predicted values using plotly (5.15.0)
 - Calculate RMSE, MAE, R2 and MSE values
 
+### Accuracy (in terms of Error metric value)
+<div style="float:left">
+<div style="float:left"><img width="600" src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/result.png"/>
+</div>
+  
 ### Results
 <div style="float:left">
-<div style="float:left"><img src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/prediction_vs_actual_graph.png"/>
+<div style="float:left"><img width="400" src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/prediction_vs_actual_graph.png"/>
 </div>
 <br />
