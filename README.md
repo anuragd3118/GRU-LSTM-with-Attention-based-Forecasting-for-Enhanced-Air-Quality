@@ -1,5 +1,5 @@
 # GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality
-Group Project for Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for State-of-art results
+Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for State-of-art results
 
 ## Tools and Libraries
 - Tools :
@@ -55,6 +55,6 @@ Group Project for Predicting Air Quality Index using Cutting Edge Deep Learning 
 
 ### Results
 <div style="float:left">
-<div style="float:left"><img src="https://github.com/jyoti0225/Air-Pollution-Forecasting/blob/master/output_graph.png" />
+<div style="float:left"><img src="https://github.com/jyoti0225/Air-Pollution-Forecasting/blob/master/output_graph.png](https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/preiction_vs_actual_graph.png)https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/preiction_vs_actual_graph.png"/>
 </div>
 <br />
