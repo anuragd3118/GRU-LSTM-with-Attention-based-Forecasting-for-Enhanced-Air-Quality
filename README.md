@@ -2,7 +2,8 @@
 Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for State-of-art results
 
 ## Tools and Libraries
-- Tools : Python3 and Colab Notebook for language support
+- Tools :
+  - Python3 and Colab Notebook for language support
 - Libraries :
   - Pandas (1.5.3) — For handling structured data
   - NumPy (1.23.5) — For linear algebra and mathematics
@@ -15,14 +16,7 @@ Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for Sta
 </p>
 
 ## DataSet
-- In this, We have used the Air Quality dataset. This is a dataset that reports on the weather and the level of pollution each hour for five years at the US embassy in Beijing, China. The data includes the date-time, the pollution called PM2.5 concentration, and the weather information including dew point, temperature, pressure, wind direction, wind speed and the cumulative number of hours of snow and rain.
-
-## Steps followed
-- Data preparation
-- Data Visualization and Normalisation
-- Importing the Model
-- Fit model along with constrains
-- Evaluate model using various Evaluation Metrics
+In this, We have used the Air Quality dataset. This is a dataset that reports on the weather and the level of pollution each hour for five years at the US embassy in Beijing, China. The data includes the date-time, the pollution called PM2.5 concentration, and the weather information including dew point, temperature, pressure, wind direction, wind speed and the cumulative number of hours of snow and rain.
 
 ### Data preparation
 - Replace NA values
@@ -51,12 +45,16 @@ Predicting Air Quality Index using Cutting Edge Deep Learning Algorithms for Sta
 - Plot the line graph between actual vs predicted values using plotly (5.15.0)
 - Calculate RMSE, MAE, R2 and MSE values
 
-### Accuracy (in terms of Error metric value)
+## Accuracy (in terms of Error metric value)
+The chart clearly demonstrates our model's superiority in predicting air pollution levels compared to previous methods. With lower RMSE, MSE, and MAE values, as well as a higher R-squared value, our model excels in accuracy and performance, setting a new standard for air pollution prediction.
+
 <div style="float:left">
 <div style="float:left"><img width="600" src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/result.png"/>
 </div>
   
-### Results
+## Results
+The depicted graph below exhibits a remarkable convergence of the actual (in red) and predicted (in green) pollution levels. Notably, both lines closely align, underscoring the exceptional performance achieved by our state-of-the-art 'Attention mechanism with GRU+LSTM' hybrid deep learning model.
+
 <div style="float:left">
 <div style="float:left"><img width="400" src="https://github.com/anuragd3118/GRU-LSTM-with-Attention-based-Forecasting-for-Enhanced-Air-Quality/blob/main/prediction_vs_actual_graph.png"/>
 </div>
